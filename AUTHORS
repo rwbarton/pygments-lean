@@ -1,0 +1,16 @@
+This plugin is based on the fork of Pygments maintained by
+Gabriel Ebner at https://bitbucket.org/gebner/pygments-main,
+which in turn is based on the official Pygments source repository at
+https://bitbucket.org/birkenfeld/pygments-main/.
+
+See http://pygments.org/docs/authors/ for the list of contributors to
+the original version of Pygments, which this package is ultimately
+based on.
+
+Contributors to the updated Lean lexer contained herein are:
+
+* Gabriel Ebner
+* Soonho Kong
+* Sebastian Ullrich
+
+Packaging as a Pygments plugin by Reid Barton.
